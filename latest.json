@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "MK",
-    "Version":  "1.0.2",
-    "DownloadUrl":  "https://github.com/curtner04/macro-kit-downloads/releases/download/macro-kit-1.0.2-cba473e2d3d93993/MK-Setup.exe",
-    "SHA256":  "cba473e2d3d939936e2d11e0914532356339c30515f3a6f98bb55dafc948f41d",
-    "Bytes":  2252679
+    "Version":  "1.12.0",
+    "DownloadUrl":  "https://github.com/curtner04/macro-kit-downloads/releases/download/macro-kit-1.12.0-15b71ce88a8f9ade/MK-Setup.exe",
+    "SHA256":  "15b71ce88a8f9adee851887af7fe6a0c98f53ccfd9e2fb200c9d04e2db6194e6",
+    "Bytes":  2461817
 }
